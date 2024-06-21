@@ -4,9 +4,9 @@
 
 ## Оглавление
 1. [Описание проекта](#описание-проекта)
-2. [Объект тестирования: Post](#post)
+2. [Объект тестирования](#post)
    - [GET /post (Get List)](#get-post-get-list)
-   - [Post /post/create (Create Post)](#post-postcreate-create-post)
+   - [POST /post/create (Create Post)](#post-postcreate-create-post)
 3. [Майнд-карта](#майнд-карта)
 4. [Коллекция POSTMAN](#коллекция-postman)
 5. [Автотесты](#автотесты)
@@ -48,7 +48,7 @@ owner: object(User Preview)
 }
 ```
 _____
-#### Post /post/create (Create Post)
+#### POST /post/create (Create Post)
 Позволяет создать новую публикацию, возвращает созданные данные записи.
 
 **Request Body:**
