@@ -10,6 +10,7 @@
 3. [Майнд-карта](#майнд-карта)
 4. [Коллекция POSTMAN](#коллекция-postman)
 5. [Автотесты](#автотесты)
+6. [Баги]()
    
 ## Описание проекта
 
@@ -125,3 +126,9 @@ _Майнд-карта для **Create Post**_
 
 [Ссылка на окружение](https://github.com/anisimova-an-an/DummyAPI/blob/main/DummyAPI.postman_environment%20(1).json)
 
+## Баги
+
+В ходе тестирования были найдено несколько багов, которые были оформлены в Redmain:
+![Alt-текст](https://github.com/anisimova-an-an/DummyAPI/blob/main/CreatePost.png "bag1")
+
+![Alt-текст](https://github.com/anisimova-an-an/DummyAPI/blob/main/CreatePost.png "bag2")
