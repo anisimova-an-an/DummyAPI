@@ -129,6 +129,7 @@ _Майнд-карта для **Create Post**_
 ## Баги
 
 В ходе тестирования были найдено несколько багов, которые были оформлены в Redmain:
-![Alt-текст](https://github.com/anisimova-an-an/DummyAPI/blob/main/CreatePost.png "bag1")
 
-![Alt-текст](https://github.com/anisimova-an-an/DummyAPI/blob/main/CreatePost.png "bag2")
+![Alt-текст](https://github.com/anisimova-an-an/DummyAPI/blob/main/bag1.png "bag1")
+
+![Alt-текст](https://github.com/anisimova-an-an/DummyAPI/blob/main/bag2.png "bag2")
